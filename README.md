@@ -15,7 +15,6 @@ I'm a passionate Full Stack Developer with expertise in building scalable web ap
 - 👯 Open to collaborate on: Open-source projects related to web development or cloud technologies
 - 💬 Ask me about: JavaScript, Node.js, React, Spring Boot, and Cloud Architecture
 - 📫 How to reach me: [hirparadhaval15@gmail.com](mailto:hirparadhaval15@gmail.com)
-- 📱 Mobile: +1 (909) 905-3367
 
 ### 🛠️ Tech Stack
 
