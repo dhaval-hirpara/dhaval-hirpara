@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Dhaval Hirpara
 
+<img src="images/banner.png" alt="Dhaval's GitHub Stats" />
+
 ## 💻 Full Stack Software Engineer | Cloud Enthusiast | Problem Solver
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhaval-hirpara&color=brightgreen)
