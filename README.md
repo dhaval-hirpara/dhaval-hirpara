@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Dhaval Hirpara
 
-<img src="images/banner.png" alt="Dhaval's GitHub Banner" />
 
 ## 💻 Full Stack Software Engineer | Cloud Enthusiast | Problem Solver
 
